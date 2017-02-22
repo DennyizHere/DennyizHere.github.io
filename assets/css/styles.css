@@ -1,7 +1,7 @@
 html, body{
 	font-size:16px;
-	color: #dfdfdf;
-	background-color: #063647; 
+	color: #000000;
+	background-color: #000000; 
 }
 
 a {
@@ -18,15 +18,15 @@ section{
 }
 
 .section-1 {
-	background: #063647;
+	background: #d6d6d6;
 }
 
 .section-2 {
-	background-color: #052D3D;
+	background-color: #ffffff;
 }
 
 .section-3 {
-	background-color: #0E282E;
+	background-color: #d6d6d6;
 }
 
 .section-4 {
