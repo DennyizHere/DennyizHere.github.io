@@ -51,18 +51,28 @@ a.nav-item:hover {
 	padding-top: 1rem;
 }
 
-.social-container img{
-	max-height:60px;
+div.picwrapper {
+    width:100%;
+    text-align: center;
 }
 
-ul li {
+div.pic {
     display:inline-block;
+}
+
+.social-container img{
+	max-height:120px;
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
 }
 
 .project-figure {
 	margin: 0 auto 1rem auto;
-	max-height: 256px;
+	max-height: 130px;
 	max-width: 256px;
+    display:inline-block;
+    overflow: hidden;
 }
 
 .project-text {
@@ -75,7 +85,7 @@ ul li {
 }
 
 .title {
-	color: #fff;
+	color: #000;
 	text-align: left;
 	margin-bottom: 2rem;
 }
