@@ -43,7 +43,7 @@ a.nav-item:hover {
 }
 
 .avatar{
-	height:200px;
+	height: 200px;
 	border-radius: 50%;
 }
 
@@ -56,21 +56,17 @@ div.picwrapper {
     text-align: center;
 }
 
-div.pic {
-    display:inline-block;
-}
-
 .social-container img{
 	max-height:120px;
     vertical-align: middle;
     text-align: center;
     display: inline-block;
+    padding-bottom: 10px;
 }
 
 .project-figure {
 	margin: 0 auto 1rem auto;
-	max-height: 130px;
-	max-width: 256px;
+	max-height: 200px;
     display:inline-block;
     overflow: hidden;
 }
