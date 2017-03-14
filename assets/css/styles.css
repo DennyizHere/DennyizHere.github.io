@@ -71,6 +71,12 @@ div.picwrapper {
     overflow: hidden;
 }
 
+.hack-figure {
+	margin: 0 auto 1rem auto;
+	max-height: 500px;
+    display:inline-block;
+}
+
 .project-text {
 	text-align: justify;
 }
